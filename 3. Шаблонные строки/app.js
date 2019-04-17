@@ -1,0 +1,1 @@
+console.log(`Число Pi равно ${Math.PI}`);
