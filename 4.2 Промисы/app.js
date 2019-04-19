@@ -6,6 +6,6 @@ const promise = new Promise(function(resolve, reject) {
             return reject(String(anything).toLowerCase());
         }
     }
-    anythingToLowerCase('');
+    anythingToLowerCase('g');
 });
 
